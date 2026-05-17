@@ -168,6 +168,24 @@
       "sourceType": "local",
       "skillPath": ".agents/skills/gdpr/SKILL.md",
       "computedHash": "8c33e2198cf099178c915eb23c3988573ca81b7cb5d7eb36a65abda40f74427b"
+    },
+    "typography": {
+      "source": "local",
+      "sourceType": "local",
+      "skillPath": ".agents/skills/typography/SKILL.md",
+      "computedHash": "7b5e8dd111cb4b7418c95d4a89191e3e4d2ae0c5e78a49fc70c7d91dfa0607f7"
+    },
+    "color": {
+      "source": "local",
+      "sourceType": "local",
+      "skillPath": ".agents/skills/color/SKILL.md",
+      "computedHash": "eaabf98ab9fd87541e2a7c3381e917ad5d997d569cda731f002a7fb6658cf893"
+    },
+    "svg-illustration": {
+      "source": "local",
+      "sourceType": "local",
+      "skillPath": ".agents/skills/svg-illustration/SKILL.md",
+      "computedHash": "82299945bad74f061e1efb16c2594bf153ec32d5638d3ec8822b806fb291665a"
     }
   }
 }
