@@ -234,6 +234,30 @@
       "sourceType": "github",
       "skillPath": "skills/xlsx/SKILL.md",
       "computedHash": "efd0c8011cf0677d8075cf93867ecec804f9a8754a777e1d2fdb46197e9c247f"
+    },
+    "seo": {
+      "source": "local",
+      "sourceType": "local",
+      "skillPath": ".agents/skills/seo/SKILL.md",
+      "computedHash": "098c6401ba96b353b82ce994e48590738650876dbc164c5e0045ab6c78d63eef"
+    },
+    "copywriting": {
+      "source": "local",
+      "sourceType": "local",
+      "skillPath": ".agents/skills/copywriting/SKILL.md",
+      "computedHash": "38a90be6c76d75d63307a80563ae13de849cc240974a34f9e8e0b82970f6e48c"
+    },
+    "web-accessibility": {
+      "source": "local",
+      "sourceType": "local",
+      "skillPath": ".agents/skills/web-accessibility/SKILL.md",
+      "computedHash": "e277e3e074803bac2e4f4e2b653c493a142c7f821bee118312c90c8044aae7fc"
+    },
+    "web-performance": {
+      "source": "local",
+      "sourceType": "local",
+      "skillPath": ".agents/skills/web-performance/SKILL.md",
+      "computedHash": "4348e2606119c70e6247b932ba1fb484c701c2c102c3d6de8e21897708127b47"
     }
   }
 }
